@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>灰の魔女イレイナのブログ</title>
+    <link>https://ashenelaina.github.io/</link>
+    
+    <image>
+      <url>https://ashenelaina.github.io/icon.png</url>
+      <title>灰の魔女イレイナのブログ</title>
+      <link>https://ashenelaina.github.io/</link>
+    </image>
+    
+    <atom:link href="https://ashenelaina.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ashenelaina.superfeedr.com/" rel="hub"/>
+    <description></description>
+    <pubDate>Mon, 08 Feb 2021 17:52:14 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://ashenelaina.github.io/2020/10/25/hello-world/</link>
+      <guid>https://ashenelaina.github.io/2020/10/25/hello-world/</guid>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description></description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="Tests"><a href="#Tests" class="headerlink" title="Tests"></a>Tests</h2><h3 id="lt-iframe-gt"><a href="#lt-iframe-gt" class="headerlink" title="&lt;iframe&gt;"></a><code>&lt;iframe&gt;</code></h3><p><blockquote class="twitter-tweet"><p lang="zh" dir="ltr">她身穿漆黑长袍且头戴三角帽，灰色的发丝随风摇曳。<br>若是那里有人，她绝对会令任何人回头并漏出叹息，具有如此美貌的她究竟是谁？<br>没错，就是我，最喜欢钱的自恋屑魔女伊蕾娜。因为很讨厌最喜欢的钱钱被别人抢走，所以意识形态是无政资（大嘘）。欢迎大家来和我进行 自 由 贸 易（指 坑 蒙 拐 骗）。 <a href="https://t.co/VmlKlIYPQy">pic.twitter.com/VmlKlIYPQy</a></p>&mdash; 🟨灰の魔女⬛️イレイナ🟨 (@AshenElaina) <a href="https://twitter.com/AshenElaina/status/1313523840908173313?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p><h3 id="Math"><a href="#Math" class="headerlink" title="Math"></a>Math</h3><p>Let <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>I</mi></mrow><annotation encoding="application/x-tex">I</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span></span></span></span> be the set of all ideologies.</p><p>And <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">P(x)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span></span></span></span> iff <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">x</span></span></span></span> is an ideology in which <a href="https://twitter.com/0NightGalaxy">@0NightGalaxy</a> believes/once believed/will believe. Then we have:</p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∀</mi><mi>x</mi><mo>∈</mo><mi>I</mi><mi mathvariant="normal">.</mi><mo stretchy="false">(</mo><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">\forall x \in I. (P(x))</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.73354em;vertical-align:-0.0391em;"></span><span class="mord">∀</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="mord">.</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mclose">)</span></span></span></span>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://ashenelaina.github.io/2020/10/25/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
